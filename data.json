@@ -1,0 +1,73 @@
+ [
+    {
+      "id": 1,
+      "quote": "Success is getting what you want; happiness is wanting what you get.",
+      "quoteby": "W. P. Kinsella",
+      "postby": "Rock"
+      
+    },
+    {
+        "id": 2,
+        "quote": "I never dreamed about success. I worked for it.",
+        "quoteby": "Estée Lauder",
+        "postby": "sam"
+        
+      },
+      {
+        "id": 3,
+        "quote": "Don’t let yesterday take up too much of today.",
+        "quoteby": "Will Rogers",
+        "postby": "raju"
+        
+      },
+      {
+        "id": 4,
+        "quote": "If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you.",
+        "quoteby": "Steve Jobs",
+        "postby": "gopal"
+        
+      },
+      {
+        "id": 5,
+        "quote": "Either you run the day or the day runs you.",
+        "quoteby": "Jim Rohn",
+        "postby": "james"
+        
+      },
+      {
+        "id": 6,
+        "quote": "Try not to become a man of success, but rather become a man of value.",
+        "quoteby": "Albert Einstein",
+        "postby": "shaan"
+        
+      },
+      {
+        "id": 7,
+        "quote": "The successful man will profit from his mistakes and try again in a different way.",
+        "quoteby": "Dale Carnegie",
+        "postby": "mahesh"
+        
+      },
+      {
+        "id": 8,
+        "quote": "Keep your eyes on the stars, and your feet on the ground.",
+        "quoteby": "Theodore Roosevelt",
+        "postby": "stone"
+        
+      },
+      {
+        "id": 9,
+        "quote": "The elevator to success is out of order. You’ll have to use the stairs, one step at a time.",
+        "quoteby": "Joe Girard",
+        "postby": "jane"
+        
+      },
+      {
+        "id": 10,
+        "quote": "Coming together is a beginning. Keeping together is progress. Working together is success.",
+        "quoteby": "Henry Ford",
+        "postby": "queen"
+        
+      }
+]
+
