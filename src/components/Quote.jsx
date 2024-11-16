@@ -45,7 +45,7 @@ const Quote = () => {
                     
 
                 
-        <div className='h-30 md:h-36 bg-green-500 p-2 m-4 shadow rounded'>
+        <div className='h-30 md:h-36 bg-green-500 p-2 m-4 shadow rounded' key={item.id}>
             
               
                 <div className='flex flex-row items-center justify-end '>
